@@ -4,7 +4,6 @@ __pycache__/
 .venv/
 venv/
 data/
-results/*.tmp
 .DS_Store
 .idea/
 .vscode/

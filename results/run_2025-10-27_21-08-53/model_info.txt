@@ -1,0 +1,2 @@
+Model: dense
+Params: 547,098,426

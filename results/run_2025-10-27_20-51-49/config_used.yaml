@@ -1,0 +1,7 @@
+batch_size: 8
+d_ff: 2048
+d_model: 512
+model: dense
+n_layers: 6
+seq_len: 128
+tokenizer: bert-base-uncased

@@ -1,0 +1,102 @@
+[
+    {
+        "seconds": 0.14673730003414676,
+        "tokens": 1024,
+        "sec_per_token": 0.00014329814456459644,
+        "peak_mem_bytes": 208976384,
+        "batch": 0,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.0044846999808214605,
+        "tokens": 1024,
+        "sec_per_token": 4.3795898250209575e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 1,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.004473400011193007,
+        "tokens": 1024,
+        "sec_per_token": 4.368554698430671e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 2,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.004989100038073957,
+        "tokens": 1024,
+        "sec_per_token": 4.872168005931599e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 3,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.006325300026219338,
+        "tokens": 1024,
+        "sec_per_token": 6.1770508068548224e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 4,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.0052349999896250665,
+        "tokens": 1024,
+        "sec_per_token": 5.112304677368229e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 5,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.005849000008311123,
+        "tokens": 1024,
+        "sec_per_token": 5.711914070616331e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 6,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.0043672999599948525,
+        "tokens": 1024,
+        "sec_per_token": 4.264941367182473e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 7,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.005428200005553663,
+        "tokens": 1024,
+        "sec_per_token": 5.300976567923499e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 8,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    },
+    {
+        "seconds": 0.005675199965480715,
+        "tokens": 1024,
+        "sec_per_token": 5.542187466289761e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 9,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/moe.yaml"
+    }
+]

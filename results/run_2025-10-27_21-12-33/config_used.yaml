@@ -1,0 +1,10 @@
+batch_size: 8
+d_ff: 6144
+d_model: 1536
+model: moe
+moe_layer_index: 1
+n_experts: 8
+n_heads: 24
+n_layers: 16
+seq_len: 1024
+tokenizer: bert-base-uncased

@@ -1,0 +1,102 @@
+[
+    {
+        "seconds": 0.12644199997885153,
+        "tokens": 1024,
+        "sec_per_token": 0.0001234785156043472,
+        "peak_mem_bytes": 208976384,
+        "batch": 0,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.00580789998639375,
+        "tokens": 1024,
+        "sec_per_token": 5.671777330462646e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 1,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.0050338999717496336,
+        "tokens": 1024,
+        "sec_per_token": 4.9159179411617515e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 2,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.004511300008744001,
+        "tokens": 1024,
+        "sec_per_token": 4.405566414789064e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 3,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.005809499998576939,
+        "tokens": 1024,
+        "sec_per_token": 5.673339842360292e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 4,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.006091699993703514,
+        "tokens": 1024,
+        "sec_per_token": 5.948925775101088e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 5,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.0051499999826774,
+        "tokens": 1024,
+        "sec_per_token": 5.0292968580833985e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 6,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.00490120000904426,
+        "tokens": 1024,
+        "sec_per_token": 4.786328133832285e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 7,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.00600200000917539,
+        "tokens": 1024,
+        "sec_per_token": 5.861328133960342e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 8,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    },
+    {
+        "seconds": 0.005889199965167791,
+        "tokens": 1024,
+        "sec_per_token": 5.7511718409841706e-06,
+        "peak_mem_bytes": 208976384,
+        "batch": 9,
+        "model": "dense",
+        "device": "cuda",
+        "cfg_path": "conf/dense.yaml"
+    }
+]

@@ -1,0 +1,4 @@
+batch_size: 8
+model: dense
+seq_len: 128
+tokenizer: bert-base-uncased
