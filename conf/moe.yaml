@@ -1,0 +1,6 @@
+model: moe
+seq_len: 128
+batch_size: 8
+tokenizer: bert-base-uncased
+n_experts: 4
+moe_layer_index: 1
